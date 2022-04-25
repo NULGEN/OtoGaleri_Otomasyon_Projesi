@@ -1,13 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OtoGaleri_G023
-{
-    class README
-    {  # Oto Galeri Otomasyonu Projesi (Ekip Odevi)
+     # Oto Galeri Otomasyonu Projesi (Ekip Odevi)
          Asagidaki basliklarda otomoasyon projesi olusturuldu:
 
        ## Proje Detayı
@@ -24,5 +15,3 @@ namespace OtoGaleri_G023
 
         Seçiminiz:
 
-  }
-}
